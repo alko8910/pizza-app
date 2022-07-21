@@ -1,0 +1,15 @@
+#hoverCard:hover {
+  background-color: #007bff;
+  transition: 0.5s;
+}
+
+.scroll {
+  max-height: 100px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.btn-sm.btn-primary[disabled] {
+  background-color:grey;
+}
+
